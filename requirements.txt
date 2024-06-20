@@ -1,4 +1,4 @@
-opencv-python==4.2.0.32
+opencv-python==4.3.0.38
 bcolz==1.2.1
 sklearn2
 PyYAML
